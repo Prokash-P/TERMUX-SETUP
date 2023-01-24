@@ -25,3 +25,8 @@ python termux-setup.py
 https://www.facebook.com/profile.php?id=100086521818069
 
 
+# Follow On Social Media
+Facebook Instagram YouTube Github
+ 
+ 
+ 
